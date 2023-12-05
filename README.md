@@ -1,3 +1,3 @@
 # javascriptfinal
 
- https://brenomiguel.github.io/javascriptfinal/index.html
+ https://brenomiguel.github.io/javascriptfinal/projetojavascriptfinal/index.html
